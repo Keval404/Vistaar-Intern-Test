@@ -1,0 +1,543 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Mono+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Kanit:wght@500&display=swap');
+
+*{
+  margin: 0;
+  border: 0;
+  padding: 0;
+}
+
+.create-campaign {
+  position: absolute;
+  height: 725px;
+  width: 1519.2px;
+  top: 2700px;
+  background-color: #f3cb3b;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  padding-top: 50px;
+
+}
+.create-camp-title{
+  font-family: "Rubik", Helvetica;
+  font-weight: 799;
+  color: #4700ff;
+  font-size: 70px;
+  letter-spacing: 1.05px;
+  line-height: 100.1px;
+  text-shadow: -5px -2px 0px white;
+  text-align: center;
+}
+
+.rectangle-16 {
+  position: absolute;
+  width: 1519.2px;
+  height: 249px;
+  top: 3470px;
+  background-color: #0e0e0e;
+}
+
+.rectangle-16 .copy
+ {
+  position: absolute;
+  top: 200px;
+  left: 313px;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0.36px;
+  line-height: 34.3px;
+  white-space: nowrap;
+}
+
+.activatr-logo-white {
+  position: absolute;
+  width: 268px;
+  height: 150px;
+  top: 9px;
+  left: 0;
+  object-fit: cover;
+}
+
+.line {
+  position: absolute;
+  width: 1429px;
+  height: 1px;
+  top: 180px;
+  left: 29px;
+  object-fit: cover;
+} 
+
+
+.text-wrapper-15 {
+  position: absolute;
+  top: 25px;
+  left: 401px;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0.36px;
+  line-height: 34.3px;
+  white-space: nowrap;
+}
+
+.text-wrapper-16 {
+  position: absolute;
+  top: 85px;
+  left: 401px;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0.36px;
+  line-height: 34.3px;
+  white-space: nowrap;
+}
+
+.ic-round-mail {
+  position: absolute;
+  width: 25px;
+  height: 22px;
+  top: 30px;
+  left: 363px;
+}
+
+.ri-instagram-fill {
+  position: absolute;
+  width: 29px;
+  height: 29px;
+  top: 85px;
+  left: 363px;
+}
+
+.mdi-address-marker {
+  position: absolute;
+  width: 33px;
+  height: 31px;
+  top: 29px;
+  left: 915px;
+}
+
+.text-wrapper-17 {
+  position: absolute;
+  width: 465px;
+  top: 25px;
+  left: 965px;
+  font-family: "Kanit-Regular", Helvetica;
+  font-weight: 400;
+  color: #ffffff;
+  font-size: 24px;
+  letter-spacing: 0.36px;
+  line-height: 34.3px;
+}
+
+.rectangle-17 {
+  position: absolute;
+  width: 100%;
+  height: 900px;
+  top: 0;
+  left: 0;
+  background-color: #5ad6e7;
+}
+
+.line-4 {
+  position: absolute;
+  width: 3px;
+  height: 810px;
+  top: 0;
+  left: 1378px;
+}
+
+.vector {
+  position: absolute;
+  cursor: pointer;
+  width: 47px;
+  height: 29px;
+  top: 435px;
+  left: 1386px;
+}
+
+.make-your {
+  position: absolute;
+  top: 155px;
+  left: 37px;
+  transform: rotate(-1.52deg);
+  font-family: 'Rubik', sans-serif; 
+  font-weight: 799;
+  color: #4700ff;
+  font-size: 96px;
+  text-align: center;
+  letter-spacing: 1.44px;
+  line-height: 134.4px;
+  white-space: nowrap;
+}
+
+.image {
+  width: 597px;
+  height: 298px;
+  top: 211px;
+  left: 86px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.standout {
+  position: absolute;
+  top: 444px;
+  left: 94px;
+  transform: rotate(-2.19deg);
+  font-family: 'Rubik', sans-serif;
+  font-weight: 799;
+  color: #ff007f;
+  font-size: 100px;
+  text-align: center;
+  letter-spacing: 1.5px;
+  line-height: 140px;
+  white-space: nowrap;
+}
+
+.element-grunge {
+  position: absolute;
+  width: 494px;
+  height: 79px;
+  top: 635px;
+  left: 642px;
+  object-fit: cover;
+}
+
+.scribble-loop-curl {
+  position: absolute;
+  width: 277px;
+  height: 279px;
+  top: 566px;
+  left: 497px;
+  object-fit: cover;
+}
+
+.unleash-your-brand-s {
+  position: absolute;
+  width: 801px;
+  top: 633px;
+  left: 291px;
+  font-family: "Kanit-SemiBoldItalic", Helvetica;
+  font-weight: 600;
+  font-style: italic;
+  color: #490291;
+  font-size: 50px;
+  text-align: center;
+  letter-spacing: 2.75px;
+  line-height: 71.5px;
+}
+
+.rectangle-18 {
+  position: absolute;
+  width: 301px;
+  height: 301px;
+  top: 142px;
+  left: 552px;
+  object-fit: cover;
+}
+
+.img-2 {
+  position: absolute;
+  width: 235px;
+  height: 213px;
+  top: 90px;
+  left: 933px;
+  object-fit: cover;
+}
+
+.image-2 {
+  width: 131px;
+  height: 131px;
+  top: 0;
+  left: 21px;
+  position: absolute;
+  object-fit: cover;
+}
+
+.element-3 {
+  position: absolute;
+  width: 740px;
+  height: 493px;
+  top: 148px;
+  left: 710px;
+  object-fit: cover;
+}
+
+.activatr {
+  position: absolute;
+  top: 102px;
+  left: 54px;
+  font-family: "Nothing You Could Do-Regular";
+  font-weight: 400;
+  color: #000000;
+  font-size: 16px;
+  text-align: center;
+  letter-spacing: -0.56px;
+  line-height: 22.9px;
+  white-space: nowrap;
+}
+
+
+#knowBtn{
+  text-decoration: none;
+  color: #000000;
+}
+
+.sliderParent{
+  background-color: #ff007f;
+}
+
+.slideshow {
+  position: relative;
+  width: 100%;
+  height: 900px;
+  overflow: hidden; 
+  margin-top: 910px;
+  margin-left: 397px;
+
+}
+
+.slideshow img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  opacity: 0;
+  transition: opacity 1s ease-in-out;
+  width: fit-content;
+  height: auto;
+}
+
+.slideshow img.active {
+  opacity: 1;
+}
+
+.carousel {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 300px; 
+  overflow: hidden;
+}
+
+.tiles {
+  display: flex;
+  transition: transform 0.5s ease;
+}
+
+.tile {
+  flex: 0 0 100px; 
+  height: auto; 
+  width: auto;
+  margin: 0 10px;
+  background-color: #ccc;
+  cursor: pointer;
+  transition: flex 0.5s ease, height 0.5s ease;
+}
+
+.tile.active {
+  flex: 0 0 200px; 
+  height: 200px; 
+} 
+
+.campaign-ideas {
+  position: relative;
+  width: 824px;
+  top: 918px;
+  left: 309px;
+  font-family: 'Rubik', sans-serif;
+  font-weight: 1000;
+  color: white;
+  font-size: 80px;
+  text-align: center;
+  letter-spacing: 1.4px;
+  line-height: 95.9px;
+  text-shadow: -7px -3px 0px #4700ff;
+}
+
+.component {
+  position: absolute;
+  width: 665px;
+  height: 774px;
+  top: 1015px;
+  left: 376px;
+  background-color: #ff007f;
+}
+
+.text-wrapper-19 {
+  position: absolute;
+  top: 1803px;
+  left: 600px;
+  width: 329px;
+  font-family: "Kanit", Helvetica;
+  color: #000000;
+  font-size: 48px;
+  text-align: center;
+  letter-spacing: 0.48px;
+  line-height: 68.6px;
+  white-space: nowrap;
+  background-color: #f3ca3a;
+  border-radius: 20px;
+}
+
+.frame-5 {
+ 
+  position: absolute;
+  width: 1440px;
+  height: 900px;
+  top: 1905.5px;
+  left: 79px;
+  overflow: hidden;
+}
+
+.frame-5 img{
+  position: absolute;
+  left: 350px;
+  height: 650px;
+}
+
+.metric-measures {
+  position: absolute;
+  width: 616px;
+  top: 2150px;
+  left: -180px;
+  transform: rotate(-90deg);
+  font-family: 'Rubik', sans-serif; 
+  font-weight: 799;
+  color: #9e04c4;
+  font-size: 64px;
+  text-align: center;
+  letter-spacing: 2.56px;
+  line-height: 91.5px;
+  text-shadow: 7px 0px 0px black;
+}
+
+.full-screen-overlay {
+  display: none;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  background-color:#ff007f;
+  z-index: 9999;
+  text-align: left;
+  font-size: 80px;
+  
+}
+
+.image-content {
+  position: relative;
+  top: 50%;
+  transform: translateY(-50%);
+}
+
+.full-screen-image {
+  max-width: 90%;
+  max-height: 80vh;
+}
+
+.text-container {
+  margin-top: 20px;
+  color: white;
+  padding-left: 140px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  line-height: 120px;
+}
+
+.close-btn {
+  position: absolute;
+  top: 10px;
+  right: 10px;
+  font-size: 30px;
+  color: white;
+  cursor: pointer;
+}
+
+
+.banner {
+  height: 85px;
+  background-color: #f2f2f200;
+  overflow: hidden;
+  position: relative;
+  top: 810px;
+  border-top: 4px solid black;
+  border-bottom: 4px solid black;
+}
+
+.marquee {
+  display: flex;
+  white-space: nowrap;
+  position: absolute;
+  animation: marqueeAnimation 12s linear infinite;
+  /* animation: scrollText 12s linear infinite; */
+  padding-top: 20px;
+}
+
+.scrolling-text {
+  padding: 0 20px;
+  opacity: 0;
+  font-size: 50px;
+  padding-left: 120px;
+  font-weight: 799;
+  animation: fadeInOut 4s linear infinite; 
+}
+
+#color1{
+  color:#9E04C5;
+  font-size: 36px; 
+  font-family: "Kanit"; 
+  font-style: italic; 
+  font-weight: 700; 
+  text-transform: uppercase; 
+  line-height: 36.36px; 
+  letter-spacing: 2.70px; 
+
+  word-wrap: break-word
+}
+#color2{
+  color:#4700FF;
+  font-size: 36px; 
+  font-family: "Kanit"; 
+  font-style: italic; 
+  font-weight: 700; 
+  text-transform: uppercase; 
+  line-height: 36.36px; 
+  letter-spacing: 2.70px; 
+}
+#color3{
+  color:#FF018F;
+  font-size: 36px; 
+  font-family: "Kanit"; 
+  font-style: italic; 
+  font-weight: 700; 
+  text-transform: uppercase; 
+  line-height: 36.36px; 
+  letter-spacing: 2.70px; 
+}
+
+@keyframes marqueeAnimation {
+  0%, 33.33% {
+    transform: translateX(10%);
+  }
+  33.34%, 66.66% {
+    transform: translateX(0%);
+  }
+  66.67%, 100% {
+    transform: translateX(30%);
+  }
+}
+
+@keyframes fadeInOut {
+  0%, 100% {
+    opacity: 0;
+  }
+  25%, 75% {
+    opacity: 1;
+  }
+}
+
